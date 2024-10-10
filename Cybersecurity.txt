@@ -1,0 +1,3 @@
+Cybersecurity involves protecting systems, networks, and data from digital attacks, 
+unauthorized access, and damage. It’s essential for safeguarding sensitive information 
+in an increasingly connected world.
