@@ -1,0 +1,5 @@
+The backend handles the logic, database interactions, user authentication, and business processes behind the scenes.
+Technologies commonly used include:
+Programming Languages: Such as Node.js, Python, Ruby, Java, or PHP.
+Frameworks: Like Express.js, Django, Ruby on Rails, or Spring Boot.
+Databases: SQL databases (e.g., MySQL, PostgreSQL) or NoSQL databases (e.g., MongoDB).
