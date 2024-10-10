@@ -1,0 +1,3 @@
+For backend we have studied
+Programming languages like Python, Java and PHP and as well as frameworks like Django, Spring Boot.
+Lastly, databases on platforms such as MySQL, NoSQL (MongoDb) 
