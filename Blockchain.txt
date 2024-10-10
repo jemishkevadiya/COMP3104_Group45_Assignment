@@ -1,0 +1,4 @@
+Blockchain is a decentralized digital ledger technology that securely records 
+transactions across a network of computers. It is best known as the backbone of 
+cryptocurrencies but has applications in many other industries, including finance and 
+supply chain.
