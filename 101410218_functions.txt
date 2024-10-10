@@ -1,0 +1,1 @@
+In simple term Function is a resusable block of code that performs a specific task. we can call it whenever we want to perform that specific task that we allocated to fucntion. It is usefull in many ways such as code simplicity, Increased effeciency, And it also helps to organize our code.
