@@ -1,0 +1,1 @@
+MongoDB is a NoSQL database that stores data in flexible, JSON-like documents, making it ideal for handling unstructured or semi-structured data. It’s scalable and commonly used for modern applications requiring dynamic schemas and high performance.
