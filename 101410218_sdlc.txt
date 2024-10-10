@@ -1,0 +1,8 @@
+Software developement lifecycle(SDLC):- 
+So basically, software developement lifecycle is used to design, develop, test and depoly our application. It helps us provide systemic approach to application by dividing application to various step such as 
+1. Planning
+2. design
+3. Implement
+4. test
+5. depoly
+6. Maintain 
