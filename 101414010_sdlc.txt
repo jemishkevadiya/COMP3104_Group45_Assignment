@@ -1,1 +1,6 @@
- 
+DevOps ia an integral part in Software development cycle. 
+As the name suggests it combines two roles Developer(Dev) and Operations(Qps). 
+It is important to have knowlegde about DevOps as it helps us streamline development process by 
+automating repetitive tasks, improving collaboration etc. Continuous Integration(CI) and Continuous Deployment(CD) tools are more reliable to 
+execute tasks faster. Moreover,DevOps enables organizations to scale their software infrastructure 
+with the containerization tools like Docker and Kubernetes.
