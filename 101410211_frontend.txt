@@ -1,0 +1,5 @@
+This involves building the user interface (UI) and user experience (UX) of the application, which users interact with directly.
+Technologies commonly used include:
+HTML/CSS: For structuring and styling web pages.
+JavaScript: For adding interactivity and dynamic behavior.
+Frameworks/Libraries: Such as React, Angular, or Vue.js for building complex and scalable frontends.
