@@ -1,0 +1,1 @@
+Comp 3104 is a DevOps course. which mainly focuses on understanding DevOps principles and tools, Working effectively with IT teams, About software developement lifecycle(SDLC), How to depoly and test our application, How to use Git,Travis like software effectively. 
