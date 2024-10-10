@@ -1,0 +1,1 @@
+Arrays is data structure that stores different values in a single variable with different index value. so that we can access using its index value. It is usefull in Organize our data, Memmory effeciency, And simplifying code. 
