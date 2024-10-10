@@ -1,0 +1,4 @@
+DevOps is a collaborative approach that combines software development (Dev)
+ and IT operations (Ops) to streamline and automate the software delivery process. 
+ It emphasizes continuous integration, continuous delivery, and collaboration to
+  improve efficiency, reduce deployment time, and enhance software quality.
