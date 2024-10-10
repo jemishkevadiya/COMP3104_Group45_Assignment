@@ -1,0 +1,3 @@
+Full-stack development refers to the practice of building both the frontend (client-side) and backend
+(server-side) parts of a web or mobile application. Full-stack developers have the skills to work on 
+the entire technology stack required to create a complete application.
