@@ -1,0 +1,4 @@
+Computer Programming and Analysis is a field focused on designing, writing, and testing software 
+programs while also analyzing system requirements and performance. It involves both the technical 
+aspect of coding and the strategic side of planning and improving software systems.
+
