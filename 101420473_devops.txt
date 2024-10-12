@@ -1,0 +1,2 @@
+It is a set of practices that combines software development (Dev) and IT operations (Ops).
+DevOps promotes a culture of collaboration among development, operations, and other stakeholders, breaking down traditional silos and encouraging a more agile approach to software development.
