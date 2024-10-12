@@ -1,0 +1,4 @@
+IoT refers to the network of physical devices embedded with sensors and software,
+ enabling them to collect and exchange data. It connects everyday objects, from home 
+ appliances to industrial machinery, to the internet.
+

@@ -1,0 +1,1 @@
+Mongo-Express is a web-based interface for managing MongoDB databases. It allows you to easily view, edit, and manage data and collections through a browser, offering a user-friendly alternative to using command-line tools.

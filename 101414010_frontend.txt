@@ -1,0 +1,2 @@
+For frontend in our course we have studied
+HTML, CSS and Javascript and numerous libraries as well.

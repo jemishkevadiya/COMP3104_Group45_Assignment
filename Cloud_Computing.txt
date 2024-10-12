@@ -1,0 +1,3 @@
+Cloud computing delivers on-demand computing services like storage, processing,
+ and networking over the internet. It offers scalability, flexibility, and cost 
+ savings for businesses and individuals alike.

@@ -1,0 +1,1 @@
+Endpoints are specific URLs in an API or web application where clients send requests to access or interact with server resources. They define the path for performing actions like retrieving or updating or deleting data.
